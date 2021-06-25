@@ -16,7 +16,7 @@ class GetCalculatorDataController extends AbstractController
     public function indexAction(): Response
     {
         $entityManager = $this->getDoctrine()->getManager();
-        $results = $entityManager->getRepository(Calculator::class)->findAll();
+        $results = $entityManager->getRepository(Calculator::class)->findAllLast24Hour();
 
         return $this->json($results);
 

@@ -21,6 +21,17 @@ class CalculatorRepository extends ServiceEntityRepository
 
     public function findAllLast24Hour(): array
     {
+        $entityManager = $this->getEntityManager();
 
+        $last24hour =  date('Y-m-d h:i:s', strtotime("-1 day"));
+
+        $query = $entityManager->createQuery(
+            'SELECT c
+            FROM App\Entity\Calculator c
+            WHERE c.created > :created
+            ORDER BY c.id DESC'
+        )->setParameter('created', $last24hour);
+
+        return $query->getResult();
     }
 }
