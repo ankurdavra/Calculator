@@ -17,6 +17,8 @@ You can then open a web browser and navigate to <http://localhost:8000/calculato
 
 You can visit https://localhost:8000/get-results for all the calculator operations in last 24 hours.
 
+This is API Endpoint https://localhost:8000/api/v1/get-results you can use it in Postman.
+
 You will be presented with a form that will allow you to enter two numbers and an operation. There is some validation on the number fields to ensure only integers are submitted. 
 
 ## Running Unit Tests

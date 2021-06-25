@@ -2,3 +2,4 @@ fc90ad,::1,POST,https://localhost:8000/calculator,1624643245,,200
 48594d,::1,POST,https://localhost:8000/calculator,1624643253,,200
 3a0da7,::1,GET,https://localhost:8000/get-results,1624643654,,200
 22ba09,::1,GET,https://localhost:8000/api/v1/get-results,1624643681,,200
+752081,::1,GET,https://localhost:8000/api/v1/get-results,1624643969,,200
