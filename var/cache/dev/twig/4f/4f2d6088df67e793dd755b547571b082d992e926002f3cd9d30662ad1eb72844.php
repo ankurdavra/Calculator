@@ -482,6 +482,6 @@ class __TwigTemplate_2a4defca9d2a05d89a555e2cb6587d0dc572ac3d69a02d595f8d1590ee6
         {% endfor %}
     </table>
 {% endmacro %}
-", "@WebProfiler/Collector/events.html.twig", "/Users/davraaw6/calculator/vendor/symfony/web-profiler-bundle/Resources/views/Collector/events.html.twig");
+", "@WebProfiler/Collector/events.html.twig", "/Users/davraaw6/Calculator/vendor/symfony/web-profiler-bundle/Resources/views/Collector/events.html.twig");
     }
 }

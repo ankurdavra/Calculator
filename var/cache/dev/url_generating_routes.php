@@ -17,4 +17,5 @@ return [
     'calculator' => [[], ['_controller' => 'App\\Controller\\CalculatorController::calculateAction'], [], [['text', '/calculator']], [], []],
     'calculatorOperations' => [[], ['_controller' => 'App\\Controller\\GetCalculatorDataController::indexAction'], [], [['text', '/get-results']], [], []],
     '_preview_error' => [['code', '_format'], ['_controller' => 'error_controller::preview', '_format' => 'html'], ['code' => '\\d+'], [['variable', '.', '[^/]++', '_format', true], ['variable', '/', '\\d+', 'code', true], ['text', '/_error']], [], []],
+    'calculator_list' => [[], ['_controller' => 'App\\Controller\\GetCalculatorDataController::indexAction'], [], [['text', '/api/v1/get-results']], [], []],
 ];

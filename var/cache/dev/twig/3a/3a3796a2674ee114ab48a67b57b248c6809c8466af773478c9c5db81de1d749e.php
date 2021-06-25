@@ -413,6 +413,6 @@ class __TwigTemplate_6595c6450e30035965270f3b33cea62ce804cc47a79520398d70acca011
         </div>
     {% endfor %}
 {% endblock %}
-", "@Debug/Profiler/dump.html.twig", "/Users/davraaw6/calculator/vendor/symfony/debug-bundle/Resources/views/Profiler/dump.html.twig");
+", "@Debug/Profiler/dump.html.twig", "/Users/davraaw6/Calculator/vendor/symfony/debug-bundle/Resources/views/Profiler/dump.html.twig");
     }
 }

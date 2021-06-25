@@ -1349,6 +1349,6 @@ class __TwigTemplate_f72b4befa9d6854f71b113a8bdf7136fd07e50451a5526f518609d2c0f1
         <span>{{ route|default(controller) }}</span>
     {%- endif %}
 {% endmacro %}
-", "@WebProfiler/Collector/request.html.twig", "/Users/davraaw6/calculator/vendor/symfony/web-profiler-bundle/Resources/views/Collector/request.html.twig");
+", "@WebProfiler/Collector/request.html.twig", "/Users/davraaw6/Calculator/vendor/symfony/web-profiler-bundle/Resources/views/Collector/request.html.twig");
     }
 }

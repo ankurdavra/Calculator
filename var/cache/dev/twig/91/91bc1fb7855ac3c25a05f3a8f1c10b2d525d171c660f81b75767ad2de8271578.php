@@ -191,6 +191,6 @@ class __TwigTemplate_1cd6e0838b28f435b23ce8926b2163868c1bea82a588b66018a20733246
         {% block body %}{% endblock %}
     </body>
 </html>
-", "base.html.twig", "/Users/davraaw6/calculator/templates/base.html.twig");
+", "base.html.twig", "/Users/davraaw6/Calculator/templates/base.html.twig");
     }
 }

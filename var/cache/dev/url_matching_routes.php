@@ -15,6 +15,7 @@ return [
         '/_profiler/open' => [[['_route' => '_profiler_open_file', '_controller' => 'web_profiler.controller.profiler::openAction'], null, null, null, false, false, null]],
         '/calculator' => [[['_route' => 'calculator', '_controller' => 'App\\Controller\\CalculatorController::calculateAction'], null, null, null, false, false, null]],
         '/get-results' => [[['_route' => 'calculatorOperations', '_controller' => 'App\\Controller\\GetCalculatorDataController::indexAction'], null, null, null, false, false, null]],
+        '/api/v1/get-results' => [[['_route' => 'calculator_list', '_controller' => 'App\\Controller\\GetCalculatorDataController::indexAction'], null, ['GET' => 0], null, false, false, null]],
     ],
     [ // $regexpList
         0 => '{^(?'

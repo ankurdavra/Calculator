@@ -479,6 +479,6 @@ class __TwigTemplate_7d5d164827b3705101edfb5d858f48d29d132dc683e2a2ed4b8e2ed6e46
         </div>
     {% endfor %}
 {% endblock %}
-", "@WebProfiler/Collector/validator.html.twig", "/Users/davraaw6/calculator/vendor/symfony/web-profiler-bundle/Resources/views/Collector/validator.html.twig");
+", "@WebProfiler/Collector/validator.html.twig", "/Users/davraaw6/Calculator/vendor/symfony/web-profiler-bundle/Resources/views/Collector/validator.html.twig");
     }
 }

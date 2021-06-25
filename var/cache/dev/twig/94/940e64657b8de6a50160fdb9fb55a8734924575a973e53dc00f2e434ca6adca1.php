@@ -174,6 +174,6 @@ class __TwigTemplate_98e168c5b1e8df677e421a535f7718f561c834eda1ed54bb13c874b225f
         {% endif %}
     </div>
 {% endblock %}
-", "@WebProfiler/Profiler/open.html.twig", "/Users/davraaw6/calculator/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/open.html.twig");
+", "@WebProfiler/Profiler/open.html.twig", "/Users/davraaw6/Calculator/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/open.html.twig");
     }
 }

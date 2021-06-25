@@ -97,6 +97,6 @@ class __TwigTemplate_5f41d18508625eccdc82334dd311cfa2363e79f16679f63133d9fb3b4a1
         </div>
     </div>
 </div>
-", "@WebProfiler/Profiler/header.html.twig", "/Users/davraaw6/calculator/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/header.html.twig");
+", "@WebProfiler/Profiler/header.html.twig", "/Users/davraaw6/Calculator/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/header.html.twig");
     }
 }

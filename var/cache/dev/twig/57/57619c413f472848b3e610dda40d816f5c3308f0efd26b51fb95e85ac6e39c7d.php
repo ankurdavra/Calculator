@@ -1671,6 +1671,6 @@ class __TwigTemplate_8a6d5bafa0f467a858fd108822af3d0c3cdcbc390d06ada6fdbaed75844
         </tbody>
     </table>
 {% endmacro %}
-", "@Doctrine/Collector/db.html.twig", "/Users/davraaw6/calculator/vendor/doctrine/doctrine-bundle/Resources/views/Collector/db.html.twig");
+", "@Doctrine/Collector/db.html.twig", "/Users/davraaw6/Calculator/vendor/doctrine/doctrine-bundle/Resources/views/Collector/db.html.twig");
     }
 }

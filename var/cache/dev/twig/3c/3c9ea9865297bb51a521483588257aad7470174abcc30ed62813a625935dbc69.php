@@ -900,6 +900,6 @@ class __TwigTemplate_879fe9a90de30121008acbd3a68711f2969948e14b2c434ab9c61d33c9f
         {% endautoescape %}</script>
     </div>
 {% endmacro %}
-", "@WebProfiler/Collector/time.html.twig", "/Users/davraaw6/calculator/vendor/symfony/web-profiler-bundle/Resources/views/Collector/time.html.twig");
+", "@WebProfiler/Collector/time.html.twig", "/Users/davraaw6/Calculator/vendor/symfony/web-profiler-bundle/Resources/views/Collector/time.html.twig");
     }
 }

@@ -171,6 +171,6 @@ class __TwigTemplate_ca73431b08aae8f4299551ea019671690f7465bf203f28b3fa75b0888c4
         {%- endfor -%}
     </pre>
 {% endif %}
-", "@Doctrine/Collector/explain.html.twig", "/Users/davraaw6/calculator/vendor/doctrine/doctrine-bundle/Resources/views/Collector/explain.html.twig");
+", "@Doctrine/Collector/explain.html.twig", "/Users/davraaw6/Calculator/vendor/doctrine/doctrine-bundle/Resources/views/Collector/explain.html.twig");
     }
 }
