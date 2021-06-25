@@ -2,7 +2,7 @@
 
 namespace Tests\App\Operation\Helper;
 
-use App\Operation\Helper\Exponent;
+use App\Model\Helper\Exponent;
 use PHPUnit\Framework\TestCase;
 
 class ExponentTest extends TestCase

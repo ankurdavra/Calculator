@@ -2,7 +2,7 @@
 
 namespace Tests\App\Operation\Helper;
 
-use App\Operation\Helper\Subtract;
+use App\Model\Helper\Subtract;
 use PHPUnit\Framework\TestCase;
 
 class SubtractTest extends TestCase

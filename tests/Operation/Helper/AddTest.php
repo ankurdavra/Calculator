@@ -2,7 +2,7 @@
 
 namespace Tests\App\Operation\Helper;
 
-use App\Operation\Helper\Add;
+use App\Model\Helper\Add;
 use PHPUnit\Framework\TestCase;
 
 class AddTest extends TestCase

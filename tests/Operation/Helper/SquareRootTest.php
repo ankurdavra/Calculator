@@ -2,7 +2,7 @@
 
 namespace Tests\App\Operation\Helper;
 
-use App\Operation\Helper\SquareRoot;
+use App\Model\Helper\SquareRoot;
 use PHPUnit\Framework\TestCase;
 
 class SquareRootTest extends TestCase

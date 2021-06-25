@@ -2,7 +2,7 @@
 
 namespace Tests\App\Operation\Helper;
 
-use App\Operation\Helper\Multiply;
+use App\Model\Helper\Multiply;
 use PHPUnit\Framework\TestCase;
 
 class MultiplyTest extends TestCase

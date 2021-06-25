@@ -2,7 +2,7 @@
 
 namespace Tests\App\Operation\Helper;
 
-use App\Operation\Helper\Divide;
+use App\Model\Helper\Divide;
 use PHPUnit\Framework\TestCase;
 
 class DivideTest extends TestCase

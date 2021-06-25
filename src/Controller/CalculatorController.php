@@ -2,7 +2,7 @@
 
 namespace App\Controller;
 
-use App\Operation\CalculatorOperation;
+use App\Model\CalculatorOperation;
 use App\Entity\Calculator;
 use App\Form\CalculatorType;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
