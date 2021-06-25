@@ -1,7 +1,0 @@
-# Vendor
-/vendor/
-
-# PHPStorm
-.idea/
-
-/var/
