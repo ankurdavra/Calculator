@@ -1,0 +1,3 @@
+<?php //App%255CEntity%255CCalculator%2523setOutput
+
+return [PHP_INT_MAX, []];
