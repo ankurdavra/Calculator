@@ -6,7 +6,7 @@ use App\Entity\Calculator;
 use App\Model\CalculatorOperation;
 use PHPUnit\Framework\TestCase;
 
-class CalculatorTest extends TestCase
+class CalculatorOperationTest extends TestCase
 {
 
     public function testPerformCalculationSimpleOperation()
