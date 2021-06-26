@@ -7,7 +7,7 @@ First please clone the project onto your machine. Once the project is cloned ont
 
 Please make sure that you change env DB URL according to your local mysql configuration
 
-Now we will fetch the docker image using the following command:
+Now we will run symfony using the following command:
 
 ```shell
 php bin/console server:run 0.0.0.0
