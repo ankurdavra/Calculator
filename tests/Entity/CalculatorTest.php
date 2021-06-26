@@ -1,6 +1,6 @@
 <?php
 
-namespace Tests\App\Entity\Operation;
+namespace Tests\App\Entity;
 
 use App\Entity\Calculator;
 use PHPUnit\Framework\TestCase;
